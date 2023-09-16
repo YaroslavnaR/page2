@@ -1,0 +1,36 @@
+body {
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmFeuDHBePpfMPtmI0t24ByTqHLwiZ9r6RVA&usqp=CAU);
+    font-family:Bradley Hand, cursive ;
+
+}
+h1{font-size: 70px;
+text-align: center;
+color: #FFFF00;
+text-decoration: underline ;
+}
+
+
+
+p{text-align: center;}
+
+a{text-decoration: none;
+font-size: 40px;
+background-color: #FFFF00;
+color: aliceblue ;
+border-radius: 15px;
+padding: 10px;
+border:5px inset white;}
+
+
+
+.img1{
+    float: right;
+}
+footer{background-color:#2600ff ;
+text-align: center;}
+
+p{color:#cc00ff ;}
+ ol{color: #3300ff;}
+ h4{color: rgb(170, 0, 255);}
+ 
